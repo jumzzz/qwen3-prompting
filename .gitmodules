@@ -1,3 +1,4 @@
 [submodule "external/prompt-tutorial"]
 	path = external/prompt-tutorial
-	url = git@github.com:anthropics/prompt-eng-interactive-tutorial.git
+    url = git@github.com:anthropics/prompt-eng-interactive-tutorial.git
+    ignore = dirty
